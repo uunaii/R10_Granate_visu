@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
+<head>
     <meta charset="UTF-8">
-    
-    <title> Gráfico de líneas </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa con D3.js</title>
+</head>
 
-    <!-- Carga de las librerías que se utilizarán -->
+<body>
+    <!-- Create an element where the map will take place -->
+    <svg id="my_dataviz" width="800" height="600"></svg>
+    <div id="legend"></div>
+
+    <!-- Load d3.js -->
     <script src="https://d3js.org/d3.v4.js"></script>
-    
-    <body>
-        <div id="grafico"></div>
-    </body>
-    
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-legend@2.25.6/dist/d3-legend.js"></script>
+
+    <!-- Load script for the map -->
+    <script src="grafico.js"></script>
+</body>
+
 </html>
-
-
-<script src="grafico.js"></script>
