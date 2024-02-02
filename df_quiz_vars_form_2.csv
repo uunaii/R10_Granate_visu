@@ -1,0 +1,319 @@
+user_id,timestamp,event_name_x,category,operating_system,country,region,page_location,order,fase,tiempo_total(min),tiempo(s)
+237,2023-02-19 08:35:30.176649,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/register,18.0,register,14.61965165,385.746585
+951,2023-01-23 15:14:20.818326,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/register,18.0,register,19.934845066666664,18.192399
+11,2023-04-10 17:32:33.581280,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/register,18.0,register,7.104198766666667,6.72663
+44,2023-06-29 14:50:23.534527,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/register,18.0,register,2.0757836333333333,0.0
+920,2023-04-10 14:59:55.812748,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/register,18.0,register,8.401750033333334,14.760491
+188,2023-02-19 05:11:05.650686,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/register,18.0,register,14.042852366666667,18.229321
+309,2023-03-18 22:20:44.826270,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/register,18.0,register,11.517405716666667,27.532017
+144,2023-02-19 08:44:28.834017,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/register,18.0,register,23.0665262,391.743412
+986,2023-04-10 02:18:18.006097,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/register,18.0,register,19.054162466666664,10.971222
+878,2023-02-18 23:30:59.127307,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/register,18.0,register,7.566649233333334,27.78595
+295,2023-04-10 17:20:02.729791,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/register,18.0,register,7.326175083333334,140.629088
+181,2023-03-18 19:39:37.550840,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/register,18.0,register,44.89601108333333,613.053736
+28,2023-04-10 13:29:29.945773,user_engagement,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/register,18.0,register,7.056798033333333,21.062833
+763,2023-03-18 15:58:15.195415,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/register,18.0,register,6.046553583333333,10.622966
+50,2023-02-19 09:42:13.689660,signUp,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/register,18.0,register,6.806751516666667,127.880981
+366,2023-01-23 12:36:01.312250,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/register,18.0,register,4.370432633333333,9.8385
+740,2023-06-29 11:28:04.579892,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/register,18.0,register,9.39265195,69.804395
+468,2023-01-23 19:51:08.255149,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/register,18.0,register,21.430439633333332,589.363399
+437,2023-03-18 15:52:09.295895,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/register,18.0,register,8.264490816666667,67.848716
+468,2023-01-23 19:41:18.891750,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/photos,16.0,photos,21.430439633333332,70.460455
+878,2023-02-18 23:30:31.341357,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/photos,16.0,photos,7.566649233333334,21.81866
+144,2023-02-19 08:37:57.090605,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/photos,16.0,photos,23.0665262,46.425729
+50,2023-02-19 09:40:05.808679,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/photos,16.0,photos,6.806751516666667,20.328488
+763,2023-03-18 15:58:04.572449,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/photos,16.0,photos,6.046553583333333,10.704925
+740,2023-06-29 11:26:54.775497,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/photos,16.0,photos,9.39265195,19.964492
+181,2023-03-18 19:29:24.497104,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/photos,16.0,photos,44.89601108333333,44.190539
+920,2023-04-10 14:59:41.052257,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/photos,16.0,photos,8.401750033333334,20.999364
+44,2023-06-29 14:50:23.534527,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/photos,16.0,photos,2.0757836333333333,0.0
+28,2023-04-10 13:29:08.882940,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/photos,16.0,photos,7.056798033333333,0.0
+237,2023-02-19 08:29:04.430064,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/photos,16.0,photos,14.61965165,29.293684
+188,2023-02-19 05:10:47.421365,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/photos,16.0,photos,14.042852366666667,6.897851
+309,2023-03-18 22:20:17.294253,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/photos,16.0,photos,11.517405716666667,27.68635
+295,2023-04-10 17:17:42.100703,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/photos,16.0,photos,7.326175083333334,13.095525
+986,2023-04-10 02:18:07.034875,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/photos,16.0,photos,19.054162466666664,63.781154
+366,2023-01-23 12:35:51.473750,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/photos,16.0,photos,4.370432633333333,13.585148
+11,2023-04-10 17:32:26.854650,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/photos,16.0,photos,7.104198766666667,32.341534
+951,2023-01-23 15:14:02.625927,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/photos,16.0,photos,19.934845066666664,12.303713
+437,2023-03-18 15:51:01.447179,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/photos,16.0,photos,8.264490816666667,13.102306
+610,2023-02-19 07:00:31.600726,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/photos,16.0,photos,4.634475416666667,24.417938
+309,2023-03-18 22:19:49.607903,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/you,15.0,you,11.517405716666667,37.762964
+50,2023-02-19 09:39:45.480191,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/you,15.0,you,6.806751516666667,5.560811
+740,2023-06-29 11:26:34.811005,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/you,15.0,you,9.39265195,34.2748
+986,2023-04-10 02:17:03.253721,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/you,15.0,you,19.054162466666664,61.176503
+920,2023-04-10 14:59:20.052893,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/you,15.0,you,8.401750033333334,34.704522
+237,2023-02-19 08:28:35.136380,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/you,15.0,you,14.61965165,21.830059
+763,2023-03-18 15:57:53.867524,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/you,15.0,you,6.046553583333333,26.271388
+610,2023-02-19 07:00:07.182788,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/you,15.0,you,4.634475416666667,29.487118
+11,2023-04-10 17:31:54.513116,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/you,15.0,you,7.104198766666667,30.181562
+144,2023-02-19 08:37:10.664876,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/you,15.0,you,23.0665262,40.818991
+468,2023-01-23 19:40:08.431295,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/you,15.0,you,21.430439633333332,17.501785
+878,2023-02-18 23:30:09.522697,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/you,15.0,you,7.566649233333334,34.276343
+44,2023-06-29 14:50:23.534527,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/you,15.0,you,2.0757836333333333,8.768359
+366,2023-01-23 12:35:37.888602,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/you,15.0,you,4.370432633333333,22.279317
+181,2023-03-18 19:28:40.306565,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/you,15.0,you,44.89601108333333,57.431505
+951,2023-01-23 15:13:50.322214,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/you,15.0,you,19.934845066666664,21.046868
+437,2023-03-18 15:50:48.344873,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/you,15.0,you,8.264490816666667,28.970194
+188,2023-02-19 05:10:40.523514,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/you,15.0,you,14.042852366666667,48.743405
+28,2023-04-10 13:29:08.882940,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/you,15.0,you,7.056798033333333,10.10118
+295,2023-04-10 17:17:29.005178,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/you,15.0,you,7.326175083333334,26.541491
+188,2023-02-19 05:09:51.780109,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/footwear,14.0,footwear,14.042852366666667,24.779309
+610,2023-02-19 06:59:37.695670,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/footwear,14.0,footwear,4.634475416666667,36.269924
+309,2023-03-18 22:19:11.844939,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/footwear,14.0,footwear,11.517405716666667,28.103006
+28,2023-04-10 13:28:58.781760,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/footwear,14.0,footwear,7.056798033333333,33.088686
+437,2023-03-18 15:50:19.374679,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/footwear,14.0,footwear,8.264490816666667,19.450199
+44,2023-06-29 14:50:14.766168,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/footwear,14.0,footwear,2.0757836333333333,-0.002796
+740,2023-06-29 11:26:00.536205,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/footwear,14.0,footwear,9.39265195,12.287395
+295,2023-04-10 17:17:02.463687,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/footwear,14.0,footwear,7.326175083333334,11.678215
+951,2023-01-23 15:13:29.275346,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/footwear,14.0,footwear,19.934845066666664,11.342041
+50,2023-02-19 09:39:39.919380,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/footwear,14.0,footwear,6.806751516666667,17.209149
+237,2023-02-19 08:28:13.306321,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/footwear,14.0,footwear,14.61965165,6.59905
+366,2023-01-23 12:35:15.609285,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/footwear,14.0,footwear,4.370432633333333,5.461459
+763,2023-03-18 15:57:27.596136,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/footwear,14.0,footwear,6.046553583333333,22.621164
+11,2023-04-10 17:31:24.331554,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/footwear,14.0,footwear,7.104198766666667,29.672921
+468,2023-01-23 19:39:50.929510,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/footwear,14.0,footwear,21.430439633333332,30.165991
+920,2023-04-10 14:58:45.348371,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/footwear,14.0,footwear,8.401750033333334,9.845578
+951,2023-01-23 15:13:17.933305,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/avoid,13.0,avoid,19.934845066666664,11.94221
+610,2023-02-19 06:59:01.425746,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/avoid,13.0,avoid,4.634475416666667,13.444393
+437,2023-03-18 15:49:59.924480,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/avoid,13.0,avoid,8.264490816666667,11.256401
+740,2023-06-29 11:25:48.248810,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/avoid,13.0,avoid,9.39265195,12.429881
+920,2023-04-10 14:58:35.502793,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/avoid,13.0,avoid,8.401750033333334,12.503584
+181,2023-03-18 19:27:42.875060,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/avoid,13.0,avoid,44.89601108333333,16.000011
+44,2023-06-29 14:50:14.768964,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/avoid,13.0,avoid,2.0757836333333333,0.0
+309,2023-03-18 22:18:43.741933,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/avoid,13.0,avoid,11.517405716666667,15.211538
+237,2023-02-19 08:28:06.707271,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/avoid,13.0,avoid,14.61965165,6.008242
+468,2023-01-23 19:39:20.763519,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/avoid,13.0,avoid,21.430439633333332,17.901569
+986,2023-04-10 02:16:02.077218,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/avoid,13.0,avoid,19.054162466666664,36.18228
+11,2023-04-10 17:30:54.658633,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/avoid,13.0,avoid,7.104198766666667,1.481088
+366,2023-01-23 12:35:10.147826,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/avoid,13.0,avoid,4.370432633333333,7.384658
+144,2023-02-19 08:36:29.845885,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/avoid,13.0,avoid,23.0665262,15.317494
+188,2023-02-19 05:09:27.000800,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/avoid,13.0,avoid,14.042852366666667,15.429391
+295,2023-04-10 17:16:50.785472,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/avoid,13.0,avoid,7.326175083333334,13.906797
+878,2023-02-18 23:29:35.246354,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/avoid,13.0,avoid,7.566649233333334,11.479763
+763,2023-03-18 15:57:04.974972,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/avoid,13.0,avoid,6.046553583333333,9.355373
+468,2023-01-23 19:39:02.861950,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/prices,12.0,prices,21.430439633333332,70.36349
+920,2023-04-10 14:58:22.999209,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/prices,12.0,prices,8.401750033333334,64.3299
+740,2023-06-29 11:25:35.818929,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/prices,12.0,prices,9.39265195,84.350328
+295,2023-04-10 17:16:36.878675,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/prices,12.0,prices,7.326175083333334,26.734024
+437,2023-03-18 15:49:48.668079,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/prices,12.0,prices,8.264490816666667,65.326435
+50,2023-02-19 09:39:22.710231,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/prices,12.0,prices,6.806751516666667,41.082912
+144,2023-02-19 08:36:14.528391,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/prices,12.0,prices,23.0665262,132.475055
+610,2023-02-19 06:58:47.981353,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/prices,12.0,prices,4.634475416666667,17.742398
+986,2023-04-10 02:15:25.894938,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/prices,12.0,prices,19.054162466666664,227.503098
+181,2023-03-18 19:27:26.875049,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/prices,12.0,prices,44.89601108333333,78.645158
+11,2023-04-10 17:30:53.177545,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/prices,12.0,prices,7.104198766666667,58.499691
+237,2023-02-19 08:28:00.699029,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/prices,12.0,prices,14.61965165,55.260719
+309,2023-03-18 22:18:28.530395,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/prices,12.0,prices,11.517405716666667,54.678463
+878,2023-02-18 23:29:23.766591,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/prices,12.0,prices,7.566649233333334,50.120298
+188,2023-02-19 05:09:11.571409,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/prices,12.0,prices,14.042852366666667,54.549659
+366,2023-01-23 12:35:02.763168,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/prices,12.0,prices,4.370432633333333,20.844955
+951,2023-01-23 15:13:05.991095,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/prices,12.0,prices,19.934845066666664,24.150813
+44,2023-06-29 14:50:14.768964,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/prices,12.0,prices,2.0757836333333333,6.97828
+763,2023-03-18 15:56:55.619599,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/prices,12.0,prices,6.046553583333333,42.661453
+951,2023-01-23 15:12:41.840282,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/styles,11.0,styles,19.934845066666664,23.986181
+28,2023-04-10 13:28:25.693074,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/styles,11.0,styles,7.056798033333333,0.0
+740,2023-06-29 11:24:11.468601,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/styles,11.0,styles,9.39265195,20.046835
+986,2023-04-10 02:11:38.391840,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/styles,11.0,styles,19.054162466666664,41.181552
+295,2023-04-10 17:16:10.144651,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/styles,11.0,styles,7.326175083333334,16.786871
+878,2023-02-18 23:28:33.646293,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/styles,11.0,styles,7.566649233333334,32.347879
+50,2023-02-19 09:38:41.627319,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/styles,11.0,styles,6.806751516666667,12.326602
+44,2023-06-29 14:50:07.790684,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/styles,11.0,styles,2.0757836333333333,0.0
+468,2023-01-23 19:37:52.498460,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/styles,11.0,styles,21.430439633333332,30.725529
+437,2023-03-18 15:48:43.341644,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/styles,11.0,styles,8.264490816666667,24.373831
+188,2023-02-19 05:08:17.021750,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/styles,11.0,styles,14.042852366666667,26.112097
+366,2023-01-23 12:34:41.918213,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/styles,11.0,styles,4.370432633333333,11.628072
+610,2023-02-19 06:58:30.238955,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/styles,11.0,styles,4.634475416666667,16.326884
+763,2023-03-18 15:56:12.958146,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/styles,11.0,styles,6.046553583333333,24.391642
+11,2023-04-10 17:29:54.677854,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/styles,11.0,styles,7.104198766666667,29.111824
+237,2023-02-19 08:27:05.438310,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/styles,11.0,styles,14.61965165,36.592401
+309,2023-03-18 22:17:33.851932,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/styles,11.0,styles,11.517405716666667,47.893622
+181,2023-03-18 19:26:08.229891,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/styles,11.0,styles,44.89601108333333,62.63477
+144,2023-02-19 08:34:02.053336,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/styles,11.0,styles,23.0665262,27.533767
+920,2023-04-10 14:57:18.669309,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/styles,11.0,styles,8.401750033333334,20.697933
+763,2023-03-18 15:55:48.566504,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/adventurous,10.0,adventurous,6.046553583333333,42.181635
+740,2023-06-29 11:23:51.421766,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/adventurous,10.0,adventurous,9.39265195,19.611414
+181,2023-03-18 19:25:05.595121,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/adventurous,10.0,adventurous,44.89601108333333,61.029918
+44,2023-06-29 14:50:07.790684,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/adventurous,10.0,adventurous,2.0757836333333333,0.0
+951,2023-01-23 15:12:17.854101,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,19.934845066666664,12.538948
+920,2023-04-10 14:56:57.971376,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/adventurous,10.0,adventurous,8.401750033333334,18.72043
+468,2023-01-23 19:37:21.772931,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/adventurous,10.0,adventurous,21.430439633333332,29.249316
+366,2023-01-23 12:34:30.290141,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,4.370432633333333,9.491839
+295,2023-04-10 17:15:53.357780,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/adventurous,10.0,adventurous,7.326175083333334,7.474797
+437,2023-03-18 15:48:18.967813,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,8.264490816666667,16.761713
+28,2023-04-10 13:28:25.693074,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,7.056798033333333,6.971668
+50,2023-02-19 09:38:29.300717,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,6.806751516666667,10.902762
+309,2023-03-18 22:16:45.958310,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,11.517405716666667,20.865111
+986,2023-04-10 02:10:57.210288,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,19.054162466666664,54.013389
+610,2023-02-19 06:58:13.912071,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,4.634475416666667,13.356239
+144,2023-02-19 08:33:34.519569,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/adventurous,10.0,adventurous,23.0665262,58.62978
+237,2023-02-19 08:26:28.845909,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/adventurous,10.0,adventurous,14.61965165,14.395662
+188,2023-02-19 05:07:50.909653,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/adventurous,10.0,adventurous,14.042852366666667,31.827423
+878,2023-02-18 23:28:01.298414,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/adventurous,10.0,adventurous,7.566649233333334,18.491701
+11,2023-04-10 17:29:25.566030,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/adventurous,10.0,adventurous,7.104198766666667,25.853091
+740,2023-06-29 11:23:31.810352,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/focus,9.0,focus,9.39265195,11.313938
+763,2023-03-18 15:55:06.384869,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/focus,9.0,focus,6.046553583333333,8.194952
+11,2023-04-10 17:28:59.712939,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/focus,9.0,focus,7.104198766666667,16.98298
+144,2023-02-19 08:32:35.889789,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/focus,9.0,focus,23.0665262,24.131226
+237,2023-02-19 08:26:14.450247,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/focus,9.0,focus,14.61965165,16.80639
+920,2023-04-10 14:56:39.250946,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/focus,9.0,focus,8.401750033333334,18.045765
+610,2023-02-19 06:58:00.555832,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/focus,9.0,focus,4.634475416666667,13.34987
+181,2023-03-18 19:24:04.565203,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/focus,9.0,focus,44.89601108333333,17.876765
+366,2023-01-23 12:34:20.798302,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/focus,9.0,focus,4.370432633333333,13.041495
+44,2023-06-29 14:50:07.790684,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/focus,9.0,focus,2.0757836333333333,6.333897
+50,2023-02-19 09:38:18.397955,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/focus,9.0,focus,6.806751516666667,10.799867
+188,2023-02-19 05:07:19.082230,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/focus,9.0,focus,14.042852366666667,24.239978
+986,2023-04-10 02:10:03.196899,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/focus,9.0,focus,19.054162466666664,28.642961
+951,2023-01-23 15:12:05.315153,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/focus,9.0,focus,19.934845066666664,14.531336
+309,2023-03-18 22:16:25.093199,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/focus,9.0,focus,11.517405716666667,9.191117
+28,2023-04-10 13:28:18.721406,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/focus,9.0,focus,7.056798033333333,0.0
+468,2023-01-23 19:36:52.523615,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/focus,9.0,focus,21.430439633333332,24.679122
+295,2023-04-10 17:15:45.882983,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/focus,9.0,focus,7.326175083333334,8.631193
+437,2023-03-18 15:48:02.206100,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/focus,9.0,focus,8.264490816666667,4.686625
+878,2023-02-18 23:27:42.806713,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/focus,9.0,focus,7.566649233333334,9.755713
+181,2023-03-18 19:23:46.688438,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/measurements,8.0,measurements,44.89601108333333,37.31762
+437,2023-03-18 15:47:57.519475,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/measurements,8.0,measurements,8.264490816666667,25.193847
+878,2023-02-18 23:27:33.051000,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/measurements,8.0,measurements,7.566649233333334,34.611972
+951,2023-01-23 15:11:50.783817,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/measurements,8.0,measurements,19.934845066666664,108.079397
+986,2023-04-10 02:09:34.553938,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/measurements,8.0,measurements,19.054162466666664,46.02412
+309,2023-03-18 22:16:15.902082,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/measurements,8.0,measurements,11.517405716666667,23.841916
+763,2023-03-18 15:54:58.189917,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/measurements,8.0,measurements,6.046553583333333,28.766778
+28,2023-04-10 13:28:18.721406,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/measurements,8.0,measurements,7.056798033333333,-176.439706
+920,2023-04-10 14:56:21.205181,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/measurements,8.0,measurements,8.401750033333334,18.554073
+144,2023-02-19 08:32:11.758563,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/measurements,8.0,measurements,23.0665262,32.415841
+468,2023-01-23 19:36:27.844493,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/measurements,8.0,measurements,21.430439633333332,33.327067
+11,2023-04-10 17:28:42.729959,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/measurements,8.0,measurements,7.104198766666667,31.95792
+610,2023-02-19 06:57:47.205962,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/measurements,8.0,measurements,4.634475416666667,35.514318
+50,2023-02-19 09:38:07.598088,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/measurements,8.0,measurements,6.806751516666667,18.512843
+188,2023-02-19 05:06:54.842252,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/measurements,8.0,measurements,14.042852366666667,35.532891
+237,2023-02-19 08:25:57.643857,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/measurements,8.0,measurements,14.61965165,54.71603
+740,2023-06-29 11:23:20.496414,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/measurements,8.0,measurements,9.39265195,26.7235
+44,2023-06-29 14:50:01.456787,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/measurements,8.0,measurements,2.0757836333333333,8.604089
+295,2023-04-10 17:15:37.251790,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/measurements,8.0,measurements,7.326175083333334,20.752177
+366,2023-01-23 12:34:07.756807,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/measurements,8.0,measurements,4.370432633333333,16.881556
+920,2023-04-10 14:56:02.651108,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/sizes,7.0,sizes,8.401750033333334,11.62188
+740,2023-06-29 11:22:53.772914,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/sizes,7.0,sizes,9.39265195,7.183847
+610,2023-02-19 06:57:11.691644,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/sizes,7.0,sizes,4.634475416666667,0.0
+878,2023-02-18 23:26:58.439028,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/sizes,7.0,sizes,7.566649233333334,17.716566
+421,2023-02-19 16:21:15.391634,page_view,mobile,Android,Germany,Hessen,https://lookiero.de/user/quiz/sizes,7.0,sizes,7.243175333333334,25.643021
+468,2023-01-23 19:35:54.517426,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/sizes,7.0,sizes,21.430439633333332,18.422209
+11,2023-04-10 17:28:10.772039,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/sizes,7.0,sizes,7.104198766666667,18.809129
+237,2023-02-19 08:25:02.927827,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/sizes,7.0,sizes,14.61965165,15.24199
+188,2023-02-19 05:06:19.309361,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/sizes,7.0,sizes,14.042852366666667,5.727401
+986,2023-04-10 02:08:48.529818,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/sizes,7.0,sizes,19.054162466666664,16.610033
+144,2023-02-19 08:31:39.342722,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/sizes,7.0,sizes,23.0665262,8.91149
+763,2023-03-18 15:54:29.423139,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/sizes,7.0,sizes,6.046553583333333,15.229068
+437,2023-03-18 15:47:32.325628,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/sizes,7.0,sizes,8.264490816666667,19.532173
+295,2023-04-10 17:15:16.499613,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/sizes,7.0,sizes,7.326175083333334,2.792781
+44,2023-06-29 14:49:52.852698,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/sizes,7.0,sizes,2.0757836333333333,0.0
+309,2023-03-18 22:15:52.060166,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/sizes,7.0,sizes,11.517405716666667,10.012512
+951,2023-01-23 15:10:02.704420,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/sizes,7.0,sizes,19.934845066666664,10.083226
+50,2023-02-19 09:37:49.085245,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/sizes,7.0,sizes,6.806751516666667,9.486378
+375,2023-07-24 22:01:44.800304,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/sizes,7.0,sizes,0.9164229166666666,8.371117
+181,2023-03-18 19:23:09.370818,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/sizes,7.0,sizes,44.89601108333333,11.050731
+188,2023-02-19 05:06:13.581960,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/hair,6.0,hair,14.042852366666667,15.690321
+986,2023-04-10 02:08:31.919785,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/hair,6.0,hair,19.054162466666664,13.962165
+375,2023-07-24 22:01:36.429187,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/hair,6.0,hair,0.9164229166666666,0.0
+11,2023-04-10 17:27:51.962910,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/hair,6.0,hair,7.104198766666667,14.016714
+468,2023-01-23 19:35:36.095217,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/hair,6.0,hair,21.430439633333332,7.23636
+50,2023-02-19 09:37:39.598867,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/hair,6.0,hair,6.806751516666667,9.154115
+237,2023-02-19 08:24:47.685837,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/hair,6.0,hair,14.61965165,9.919963
+437,2023-03-18 15:47:12.793455,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/hair,6.0,hair,8.264490816666667,14.652735
+740,2023-06-29 11:22:46.589067,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/hair,6.0,hair,9.39265195,11.610422
+878,2023-02-18 23:26:40.722462,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/hair,6.0,hair,7.566649233333334,4.212838
+295,2023-04-10 17:15:13.706832,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/hair,6.0,hair,7.326175083333334,13.820891
+421,2023-02-19 16:20:49.748613,page_view,mobile,Android,Germany,Hessen,https://lookiero.de/user/quiz/hair,6.0,hair,7.243175333333334,0.0
+763,2023-03-18 15:54:14.194071,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/hair,6.0,hair,6.046553583333333,10.674178
+144,2023-02-19 08:31:30.431232,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/hair,6.0,hair,23.0665262,24.086417
+309,2023-03-18 22:15:42.047654,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/hair,6.0,hair,11.517405716666667,20.772779
+181,2023-03-18 19:22:58.320087,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/hair,6.0,hair,44.89601108333333,27.601148
+920,2023-04-10 14:55:51.029228,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/hair,6.0,hair,8.401750033333334,8.53224
+610,2023-02-19 06:57:11.691644,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/hair,6.0,hair,4.634475416666667,7.979913
+951,2023-01-23 15:09:52.621194,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/hair,6.0,hair,19.934845066666664,9.677496
+44,2023-06-29 14:49:52.852698,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/hair,6.0,hair,2.0757836333333333,13.58937
+366,2023-01-23 12:33:50.875251,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/hair,6.0,hair,4.370432633333333,6.143241
+44,2023-06-29 14:49:39.263328,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/eyes,5.0,eyes,2.0757836333333333,0.0
+740,2023-06-29 11:22:34.978645,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/eyes,5.0,eyes,9.39265195,30.683885
+951,2023-01-23 15:09:42.943698,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/eyes,5.0,eyes,19.934845066666664,800.826897
+920,2023-04-10 14:55:42.496988,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/eyes,5.0,eyes,8.401750033333334,35.316848
+366,2023-01-23 12:33:44.732010,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/eyes,5.0,eyes,4.370432633333333,15.602898
+468,2023-01-23 19:35:28.858857,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/eyes,5.0,eyes,21.430439633333332,31.461469
+295,2023-04-10 17:14:59.885941,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/eyes,5.0,eyes,7.326175083333334,16.878809
+375,2023-07-24 22:01:36.429187,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/eyes,5.0,eyes,0.9164229166666666,8.022898
+763,2023-03-18 15:54:03.519893,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/eyes,5.0,eyes,6.046553583333333,10.814966
+11,2023-04-10 17:27:37.946196,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/eyes,5.0,eyes,7.104198766666667,12.901147
+878,2023-02-18 23:26:36.509624,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/eyes,5.0,eyes,7.566649233333334,23.223988
+50,2023-02-19 09:37:30.444752,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/eyes,5.0,eyes,6.806751516666667,25.676
+610,2023-02-19 06:57:03.711731,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/eyes,5.0,eyes,4.634475416666667,38.003744
+309,2023-03-18 22:15:21.274875,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/eyes,5.0,eyes,11.517405716666667,61.220898
+421,2023-02-19 16:20:49.748613,page_view,mobile,Android,Germany,Hessen,https://lookiero.de/user/quiz/eyes,5.0,eyes,7.243175333333334,83.46056
+144,2023-02-19 08:31:06.344815,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/eyes,5.0,eyes,23.0665262,151.638418
+188,2023-02-19 05:05:57.891639,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/eyes,5.0,eyes,14.042852366666667,42.072313
+237,2023-02-19 08:24:37.765874,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/eyes,5.0,eyes,14.61965165,53.202743
+181,2023-03-18 19:22:30.718939,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/eyes,5.0,eyes,44.89601108333333,68.503526
+28,2023-04-10 13:31:15.161112,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/eyes,5.0,eyes,7.056798033333333,30.621443
+437,2023-03-18 15:46:58.140720,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/eyes,5.0,eyes,8.264490816666667,74.752261
+986,2023-04-10 02:08:17.957620,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/eyes,5.0,eyes,19.054162466666664,53.608609
+309,2023-03-18 22:14:20.053977,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,11.517405716666667,26.041925
+920,2023-04-10 14:55:07.180140,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/body-shape,4.0,body-shape,8.401750033333334,12.327243
+375,2023-07-24 22:01:28.406289,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,0.9164229166666666,11.65315
+188,2023-02-19 05:05:15.819326,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/body-shape,4.0,body-shape,14.042852366666667,45.581857
+878,2023-02-18 23:26:13.285636,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/body-shape,4.0,body-shape,7.566649233333334,33.433966
+610,2023-02-19 06:56:25.707987,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,4.634475416666667,8.455271
+181,2023-03-18 19:21:22.215413,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/body-shape,4.0,body-shape,44.89601108333333,44.063065
+986,2023-04-10 02:07:24.349011,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,19.054162466666664,50.79204
+237,2023-02-19 08:23:44.563131,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/body-shape,4.0,body-shape,14.61965165,17.750383
+468,2023-01-23 19:34:57.397388,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/body-shape,4.0,body-shape,21.430439633333332,23.731522
+144,2023-02-19 08:28:34.706397,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/body-shape,4.0,body-shape,23.0665262,14.0552
+740,2023-06-29 11:22:04.294760,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/body-shape,4.0,body-shape,9.39265195,29.006376
+11,2023-04-10 17:27:25.045049,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,7.104198766666667,23.355116
+50,2023-02-19 09:37:04.768752,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,6.806751516666667,16.322149
+951,2023-01-23 14:56:22.116801,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,19.934845066666664,22.10468
+437,2023-03-18 15:45:43.388459,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,8.264490816666667,19.043647
+295,2023-04-10 17:14:43.007132,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/body-shape,4.0,body-shape,7.326175083333334,26.625442
+44,2023-06-29 14:49:39.263328,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/body-shape,4.0,body-shape,2.0757836333333333,5.307797
+366,2023-01-23 12:33:29.129112,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/body-shape,4.0,body-shape,4.370432633333333,9.753881
+763,2023-03-18 15:53:52.704927,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/body-shape,4.0,body-shape,6.046553583333333,10.612073
+11,2023-04-10 17:27:01.689933,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/highlight,3.0,highlight,7.104198766666667,10.55926
+610,2023-02-19 06:56:17.252716,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/highlight,3.0,highlight,4.634475416666667,15.795833
+740,2023-06-29 11:21:35.288384,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/highlight,3.0,highlight,9.39265195,10.930569
+44,2023-06-29 14:49:33.955531,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/highlight,3.0,highlight,2.0757836333333333,0.0
+295,2023-04-10 17:14:16.381690,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/highlight,3.0,highlight,7.326175083333334,10.247856
+878,2023-02-18 23:25:39.851670,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/highlight,3.0,highlight,7.566649233333334,15.290583
+375,2023-07-24 22:01:16.753139,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/highlight,3.0,highlight,0.9164229166666666,5.482359
+188,2023-02-19 05:04:30.237469,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/highlight,3.0,highlight,14.042852366666667,39.176138
+437,2023-03-18 15:45:24.344812,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/highlight,3.0,highlight,8.264490816666667,12.439664
+144,2023-02-19 08:28:20.651197,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/highlight,3.0,highlight,23.0665262,12.609273
+763,2023-03-18 15:53:42.092854,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/highlight,3.0,highlight,6.046553583333333,10.588179
+986,2023-04-10 02:06:33.556971,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/highlight,3.0,highlight,19.054162466666664,22.859989
+181,2023-03-18 19:20:38.152348,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/highlight,3.0,highlight,44.89601108333333,47.538096
+366,2023-01-23 12:33:19.375231,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/highlight,3.0,highlight,4.370432633333333,17.005609
+421,2023-02-19 16:19:26.288053,page_view,mobile,Android,Germany,Hessen,https://lookiero.de/user/quiz/highlight,3.0,highlight,7.243175333333334,21.790334
+468,2023-01-23 19:34:33.665866,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/highlight,3.0,highlight,21.430439633333332,20.570758
+50,2023-02-19 09:36:48.446603,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/highlight,3.0,highlight,6.806751516666667,11.984696
+309,2023-03-18 22:13:54.012052,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/highlight,3.0,highlight,11.517405716666667,38.957872
+237,2023-02-19 08:23:26.812748,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/highlight,3.0,highlight,14.61965165,22.126968
+951,2023-01-23 14:56:00.012121,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/highlight,3.0,highlight,19.934845066666664,10.228319
+920,2023-04-10 14:54:54.852897,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/highlight,3.0,highlight,8.401750033333334,26.850024
+50,2023-02-19 09:36:36.461907,page_view,mobile,Android,France,Brittany,https://lookiero.fr/user/quiz/fit,2.0,fit,6.806751516666667,7.688782
+295,2023-04-10 17:14:06.133834,page_view,mobile,iOS,NF,NF,https://lookiero.be/user/quiz/fit,2.0,fit,7.326175083333334,11.665555
+920,2023-04-10 14:54:28.002873,page_view,mobile,Android,Spain,Cantabria,https://lookiero.es/user/quiz/fit,2.0,fit,8.401750033333334,15.882704
+951,2023-01-23 14:55:49.783802,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/fit,2.0,fit,19.934845066666664,7.731433
+375,2023-07-24 22:01:11.270780,page_view,mobile,Android,France,Occitanie,https://lookiero.fr/user/quiz/fit,2.0,fit,0.9164229166666666,9.626393
+44,2023-06-29 14:49:33.955531,page_view,desktop,Macintosh,Spain,Castile and Leon,https://lookiero.es/user/quiz/fit,2.0,fit,2.0757836333333333,5.009087
+237,2023-02-19 08:23:04.685780,page_view,mobile,Android,Belgium,Flanders,https://lookiero.be/user/quiz/fit,2.0,fit,14.61965165,13.375462
+181,2023-03-18 19:19:50.614252,page_view,mobile,Android,Germany,Baden-Wurttemberg,https://lookiero.de/user/quiz/fit,2.0,fit,44.89601108333333,8.264583
+740,2023-06-29 11:21:24.357815,page_view,mobile,Android,Portugal,Lisbon,https://lookiero.pt/user/quiz/fit,2.0,fit,9.39265195,8.769763
+610,2023-02-19 06:56:01.456883,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/fit,2.0,fit,4.634475416666667,7.924682
+144,2023-02-19 08:28:08.041924,page_view,mobile,Android,Germany,Berlin,https://lookiero.de/user/quiz/fit,2.0,fit,23.0665262,30.695386
+188,2023-02-19 05:03:51.061331,page_view,mobile,Android,Italy,Lazio,https://lookiero.it/user/quiz/fit,2.0,fit,14.042852366666667,56.281741
+437,2023-03-18 15:45:11.905148,page_view,mobile,iOS,France,Grand Est,https://lookiero.fr/user/quiz/fit,2.0,fit,8.264490816666667,5.91859
+366,2023-01-23 12:33:02.369622,page_view,mobile,Android,France,Ile-de-France,https://lookiero.fr/user/quiz/fit,2.0,fit,4.370432633333333,16.634314
+763,2023-03-18 15:53:31.504675,page_view,mobile,Android,Spain,Balearic Islands,https://lookiero.es/user/quiz/fit,2.0,fit,6.046553583333333,7.092041
+28,2023-04-10 13:30:44.539669,page_view,mobile,iOS,France,Auvergne-Rhone-Alpes,https://lookiero.fr/user/quiz/fit,2.0,fit,7.056798033333333,0.0
+11,2023-04-10 17:26:51.130673,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/fit,2.0,fit,7.104198766666667,7.920229
+309,2023-03-18 22:13:15.054180,page_view,mobile,Android,France,Bourgogne-Franche-Comte,https://lookiero.fr/user/quiz/fit,2.0,fit,11.517405716666667,18.14047
+468,2023-01-23 19:34:13.095108,page_view,mobile,Android,Germany,Hamburg,https://lookiero.de/user/quiz/fit,2.0,fit,21.430439633333332,18.868186
+878,2023-02-18 23:25:24.561087,page_view,mobile,Android,Germany,North Rhine-Westphalia,https://lookiero.de/user/quiz/fit,2.0,fit,7.566649233333334,9.727789
+986,2023-04-10 02:06:10.696982,page_view,mobile,Android,France,Grand Est,https://lookiero.fr/user/quiz/fit,2.0,fit,19.054162466666664,23.338495
+975,2023-08-04 06:26:02.117658,page_view,desktop,Windows,France,Pays de la Loire,https://lookiero.fr/user/quiz/fit,2.0,fit,0.062542,3.752477
